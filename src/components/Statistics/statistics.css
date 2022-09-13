@@ -1,0 +1,23 @@
+.stat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+
+}
+.stat-item{
+    display: block;
+    /* height: 40px; */
+    width: 100px;
+    margin-bottom: 10px;
+    padding: 10px;
+    margin: 0;
+
+    background-color: #ccc;
+}
+.stat-num{
+    display: block;
+    font-weight: 700;
+}

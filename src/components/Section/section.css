@@ -1,0 +1,10 @@
+.section{
+    width: 700px;
+    margin: 50px auto;
+
+    text-align: center;
+
+    background-color: rgb(248, 246, 246);
+    border: 1px solid #ccc;
+
+}

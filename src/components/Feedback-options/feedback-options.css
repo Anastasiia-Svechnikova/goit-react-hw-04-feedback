@@ -1,0 +1,22 @@
+.options-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 0;
+
+    list-style: none;
+    
+}
+.btn{
+    width: 80px;
+    height: 40px;
+
+    background-color: #ccc;
+    border: none;
+    cursor: pointer;
+    transition: transform 900ms ease-in-out;
+}
+.btn:hover{
+    transform: rotate(360deg);
+}
